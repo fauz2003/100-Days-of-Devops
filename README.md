@@ -1,6 +1,6 @@
-# 100 Days of DevOps
+# Devops Course 2024
 
-A documentation of the next 100 days of mastering DevOps from scratch.
+A documentation of mastering DevOps from scratch.
 
 ## Blogs on Medium
 

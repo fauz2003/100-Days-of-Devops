@@ -15,7 +15,7 @@ A documentation of mastering DevOps from scratch.
 
 | Task Number | Task Name                     | Task Status |
 |-------------|-------------------------------|-------------|
-| 1           | Python Fundamentals           | Pending     |
+| 1           | Python Fundamentals           | Done        |
 | 2           | Basics of Linux and Bash      | Done        |
 | 3           | Networking and Protocols      | Done        |
 | 4           | Docker Images and Containers  | Done        |

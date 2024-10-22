@@ -1,2 +1,2 @@
 # 100-Days-of-Devops
-A documentation of my Devops journey starting from scratch
+A documentation of the next 100 days of mastering Devops from scratch

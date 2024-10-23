@@ -1,0 +1,37 @@
+services:
+  frontend:
+    build: /frontend
+    ports:
+      - "3000:3000"
+    networks:
+      - merns
+  db:
+    image: mongo:latest
+    environment:
+      POSTGRES_DB: mydb
+      POSTGRES_USER: myuser
+      POSTGRES_PASSWORD: mypass
+  backend:
+    build: ./backend
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mongo
+    networks:
+      - mern
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    networks:
+      - mern
+    volumes:
+      - mongo-data:/data/db
+
+networks:
+  mern:
+    driver: bridge
+
+volumes:
+  mongo-data:
+    driver: local

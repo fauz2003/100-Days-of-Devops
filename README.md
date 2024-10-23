@@ -13,15 +13,16 @@ A documentation of mastering DevOps from scratch.
 
 ## Progress Tracker
 
-| Task Number | Task Name                     | Task Status |
-|-------------|-------------------------------|-------------|
-| 1           | Python Fundamentals           | Done        |
-| 2           | Basics of Linux and Bash      | Done        |
-| 3           | Networking and Protocols      | Done        |
-| 4           | Docker Images and Containers  | Done        |
-| 5           | Docker Compose                | Done        |
-| 6           | Version Control (Git)         | Done        |
-| 7           | Cloud Fundamentals            | Done        |
-| 8           | Core AWS Services             | Done        |
+| Task Number | Task Name                      | Task Status | Task Link / Resource |
+|-------------|--------------------------------|-------------|----------------------|
+| 1           | Python Fundamentals            | Done        | [](https://github.com/fauz2003/Devops-2024/tree/main/task1) |
+| 2           | Basics of Linux and Bash       | Done        | [Linux and Bash](https://example.com/linux-bash) |
+| 3           | Networking and Protocols       | Done        | [Networking and Protocols](https://example.com/networking-protocols) |
+| 4           | Docker Images and Containers   | Done        | [Docker Images](https://example.com/docker-images) |
+| 5           | Docker Compose                 | Done        | [Docker Compose](https://example.com/docker-compose) |
+| 6           | Version Control (Git)          | Done        | [Git Version Control](https://example.com/git) |
+| 7           | Cloud Fundamentals             | Done        | [Cloud Fundamentals](https://example.com/cloud-fundamentals) |
+| 8           | Core AWS Services              | Done        | [Core AWS Services](https://example.com/aws-services) |
+
 
 

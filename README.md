@@ -19,10 +19,9 @@ A documentation of mastering DevOps from scratch.
 | 2           | Basics of Linux and Bash      | Done        |
 | 3           | Networking and Protocols      | Done        |
 | 4           | Docker Images and Containers  | Done        |
-| 5           | Docker Compose                | Pending     |
+| 5           | Docker Compose                | Done        |
 | 6           | Version Control (Git)         | Done        |
 | 7           | Cloud Fundamentals            | Done        |
 | 8           | Core AWS Services             | Done        |
-| 5           | Docker Compose                | Pending     |
 
 

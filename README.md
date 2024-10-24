@@ -20,7 +20,7 @@ A documentation of mastering DevOps from scratch.
 | 3           | Networking and Protocols       | Done        | [Networking Fundamnetals for DevOps Engineers](https://www.youtube.com/watch?v=M9Kex1ID7GY) |
 | 4           | Docker Images and Containers   | Done        | [Task 4](https://github.com/fauz2003/Devops-2024/tree/main/task4) |
 | 5           | Docker Compose                 | Done        | [Task 5](https://github.com/fauz2003/Devops-2024/tree/main/task5) |
-| 6           | Version Control (Git)          | Done        | [Git Version Control](https://example.com/git) |
+| 6           | Version Control (Git)          | Done        | [Git Version Control](https://antonz.org/git-by-example/) |
 | 7           | Cloud Fundamentals             | Done        | [Cloud Fundamentals](https://example.com/cloud-fundamentals) |
 | 8           | Core AWS Services              | Done        | [Core AWS Services](https://example.com/aws-services) |
 

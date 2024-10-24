@@ -23,6 +23,8 @@ A documentation of mastering DevOps from scratch.
 | 6           | Version Control (Git)          | Done        | [Git Version Control](https://antonz.org/git-by-example/) |
 | 7           | Cloud Fundamentals             | Done        | [Cloud Fundamentals](https://example.com/cloud-fundamentals) |
 | 8           | Core AWS Services              | Done        | [Core AWS Services](https://example.com/aws-services) |
+| 9           | NginX in Docker                | Pending     |                      |
+| 8           | NginX as Loadbalancer          | Pending     |                      |
 
 
 
